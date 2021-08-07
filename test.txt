@@ -1,0 +1,35 @@
+{
+    "expand": "schema,names",
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "fields": {
+                "summary": "[iOS]  Update Pre-check Messages"
+            },
+            "id": "39928",
+            "key": "STREET-2050",
+            "self": "https://penngineering.atlassian.net/rest/api/3/issue/39928"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "fields": {
+                "summary": "[AND][Zendesk] Update Pre-check Messages"
+            },
+            "id": "39926",
+            "key": "STREET-2048",
+            "self": "https://penngineering.atlassian.net/rest/api/3/issue/39926"
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "fields": {
+                "summary": "Open Dropdown Appears Above Header On Scroll"
+            },
+            "id": "38908",
+            "key": "STREET-1968",
+            "self": "https://penngineering.atlassian.net/rest/api/3/issue/38908"
+        }
+    ],
+    "maxResults": 100,
+    "startAt": 0,
+    "total": 3
+}
